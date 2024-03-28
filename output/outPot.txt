@@ -1,0 +1,11 @@
+data
+b3
+rezultat(1) = 44.0
+rezultat(2) = 44.0
+rezultat(3) = 163.0
+rezultat(4) = 550.0
+rezultat(5) = 190.0
+rezultat(6) = 32521.0
+rezultat(7) = 1881.0
+rezultat(8) = 5568.0
+rezultat(9) = 384.0
